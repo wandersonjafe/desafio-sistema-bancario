@@ -24,6 +24,8 @@ Programação Orientada a Objetos (POO): Utilizada para estruturar o código de 
 Git: Sistema de controle de versão utilizado para gerenciar o código do projeto.
 
 Como Executar o Projeto
+
+
 1.Clone o repositório:
 
 git clone https://github.com/wandersonjafe/sistema-bancario.git
